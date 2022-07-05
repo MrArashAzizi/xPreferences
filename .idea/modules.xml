@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xPreferences.iml" filepath="$PROJECT_DIR$/.idea/modules/xPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xPreferences.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xPreferences.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xPreferences.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xPreferences.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xPreferences.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xPreferences.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xPreferences.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xPreferences.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.iml" filepath="$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.main.iml" filepath="$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/xPreferences/xPreferences.xPreferences.unitTest.iml" />
+    </modules>
+  </component>
+</project>
